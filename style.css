@@ -1,0 +1,19 @@
+body{
+    background-color: #00B3AD;
+    color: #FF6B1A;
+    font-size: 20px;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Inputs{
+    
+    padding: 100px;
+    box-shadow: 6px 6px 20px gray, -6px -6px 20px white;
+    background-color: #006663;
+    margin-top: 250px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
